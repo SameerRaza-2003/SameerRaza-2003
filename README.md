@@ -47,7 +47,7 @@ status: "Final-year student · open to full-time AI Engineering roles"
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 💼 EXPERIENCE.LOG
+## EXPERIENCE.LOG
 
 <table width="100%">
 <tr><td>
@@ -66,7 +66,7 @@ status: "Final-year student · open to full-time AI Engineering roles"
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## ⚡ TECH_STACK.EXE
+## TECH_STACK.EXE
 
 <div align="center">
 
@@ -109,13 +109,13 @@ status: "Final-year student · open to full-time AI Engineering roles"
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🚀 FEATURED_SYSTEMS.BUILD
+## FEATURED_SYSTEMS.BUILD
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Autonomous Counter-Drone System
+### Autonomous Counter-Drone System
 **Final Year Project · 2026–2027**
 
 Ground MEMS mic array → FFT/Mel spectrogram → MobileNetV2 CNN (>85% confidence) performs TDOA bearing estimation to launch an interceptor. Vision side: YOLOv8 → DeepSORT + Kalman tracking → PID loop drives real-time yaw/pitch/throttle to Pixhawk over MAVLink on a Jetson Nano.
@@ -125,7 +125,7 @@ Ground MEMS mic array → FFT/Mel spectrogram → MobileNetV2 CNN (>85% confiden
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Janus — Multi-Agent Orchestration
+### Janus — Multi-Agent Orchestration
 **Team Project · 2026**
 
 Federated system of domain-specialized agents (Academic, Scheduling, Communications, Web Search), each running its own ReAct loop. Built the Janus Router — a FastAPI intent classifier directing natural-language queries across Google Classroom, Calendar, and Drive.
@@ -137,7 +137,7 @@ Federated system of domain-specialized agents (Academic, Scheduling, Communicati
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ RetinaAI — Medical CV Platform
+### RetinaAI — Medical CV Platform
 **2026**
 
 Diabetic retinopathy classifier on real clinical fundus images (4-class), benchmarked across 6 architectures — **F1 0.917, 91.2% accuracy, ROC-AUC 0.973** via MixUp + Soft Focal Loss on EfficientNet-V2-S. Grad-CAM explainability, FastAPI/OAuth2 inference backend, Next.js dashboard.
@@ -147,7 +147,7 @@ Diabetic retinopathy classifier on real clinical fundus images (4-class), benchm
 </td>
 <td width="50%" valign="top">
 
-### 🩺 FatigueNet — Multimodal Fatigue Classification
+### FatigueNet — Multimodal Fatigue Classification
 **Research · 2026**
 
 Replicated the full FatigueNet pipeline (ECG/EMG/EDA/eye-blink) with per-modality encoders, a Graph Attention Network + MetaNet fusion, and a Temporal Transformer — **81.25% window-level accuracy**. HRV+EMG XGBoost fusion hit 83.33% / 0.83 F1. Written up as an IEEE-style paper.
@@ -159,7 +159,7 @@ Replicated the full FatigueNet pipeline (ECG/EMG/EDA/eye-blink) with per-modalit
 <tr>
 <td width="50%" valign="top">
 
-### 🕌 Quranic Therapist
+### Quranic Therapist
 **LLM Fine-Tuning & RAG · 2025**
 
 Mental-wellness chatbot grounded in Islamic knowledge — fine-tuned Gemma 7B and Mini-LLaMA 1B on Quran ayat translations, deployed publicly on Hugging Face. Benchmarked against a FAISS + LangChain RAG pipeline, which won on quality and latency.
@@ -169,7 +169,7 @@ Mental-wellness chatbot grounded in Islamic knowledge — fine-tuned Gemma 7B an
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume Ranking System
+### Resume Ranking System
 **NLP & Embeddings · 2024**
 
 Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosine similarity hit ~90% precision** on top candidates. Integrated Gemini to auto-generate natural-language explanations for every ranking, making screening fully auditable.
@@ -182,7 +182,7 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🐍 CONTRIBUTION_GRID.ANIMATE
+## CONTRIBUTION_GRID.ANIMATE
 
 <div align="center">
 <picture>
@@ -196,7 +196,7 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 📊 ANALYTICS.DASHBOARD
+## ANALYTICS.DASHBOARD
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerRaza-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9"/>
@@ -214,7 +214,7 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🧠 RUNTIME.STATE
+## RUNTIME.STATE
 
 ```python
 class Sameer:
@@ -233,7 +233,7 @@ print(sameer.get_in_touch())
 
 <div align="center">
 
-### 🌐 CONNECT.SOCKET
+### CONNECT.SOCKET
 
 <a href="https://linkedin.com/in/sameerrazamalik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sameer.raza@live.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
