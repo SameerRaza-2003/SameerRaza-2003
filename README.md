@@ -1,97 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Sameer%20Raza%20Malik&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20RAG%20%26%20Multi-Agent%20Systems%20%7C%20Computer%20Vision&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0c29,50:1a1a3e,75:302b63,100:24243e&height=280&section=header&text=SAMEER%20RAZA%20MALIK&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Agentic%20AI%20%7C%20AI%20Automation&descAlignY=52&descSize=16&stroke=00F5FF&strokeWidth=1" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%40+FES+Consultants;Shipped+production+RAG+%2B+multi-agent+systems;Building+an+autonomous+counter-drone+FYP;BS+Artificial+Intelligence+%40+Air+University;Open+to+full-time+AI%2FML+Engineering+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=600&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Engineering+intelligent+systems+end-to-end;%3E+Deep+Learning+%2B+Computer+Vision+%2B+Agentic+AI;%3E+Shipped+production+RAG+%2B+multi-agent+pipelines;%3E+Building+an+autonomous+counter-drone+system;%3E+BS+Artificial+Intelligence+%40+Air+University;%3E+Open+to+full-time+AI+Engineering+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SameerRaza-2003&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerrazamalik)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameer.raza@live.com)
+<img src="https://komarev.com/ghpvc/?username=SameerRaza-2003&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://linkedin.com/in/sameerrazamalik"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sameer.raza@live.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SameerRaza-2003"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## `01001000 01101001` — Hi, I'm Sameer 👋
+## `>_` SYSTEM.INIT
 
 ```yaml
-whoami:
+identity:
   name: "Sameer Raza Malik"
-  role: "AI/ML Engineer — promoted from Intern to full-time"
+  title: "AI Engineer — Deep Learning · Computer Vision · Agentic AI · AI Automation"
   location: "Rawalpindi, Pakistan"
   education: "BS Artificial Intelligence — Air University, Islamabad (2023–2027)"
-  currently_building:
-    - "Autonomous two-stage counter-drone system (FYP) — acoustic TDOA + YOLOv8/DeepSORT intercept"
-    - "Janus — federated multi-agent orchestration system with a FastAPI router"
-  currently_seeking: "Full-time AI/ML Engineering roles"
-  shipped_in_production:
-    - "Mentora — RAG chatbot serving real study-abroad advising queries"
-    - "FES Workflow Portal — full-stack RBAC platform with AI content generation"
+
+core_stack:
+  - "Deep Learning research & production model training"
+  - "Computer Vision — detection, tracking, medical imaging"
+  - "Agentic AI — multi-agent orchestration, RAG, tool-using LLMs"
+  - "AI Automation — end-to-end pipelines from model to deployed product"
+
+currently_building:
+  - "Autonomous two-stage counter-drone system (FYP) — acoustic TDOA + YOLOv8/DeepSORT intercept"
+  - "Janus — federated multi-agent orchestration system with a FastAPI router"
+
+shipped_in_production:
+  - "Mentora — RAG chatbot serving real study-abroad advising queries"
+  - "FES Workflow Portal — full-stack RBAC platform with AI content generation"
+
+status: "Final-year student · open to full-time AI Engineering roles"
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 💼 Experience
+## 💼 EXPERIENCE.LOG
 
-<table>
+<table width="100%">
 <tr><td>
 
-**AI/ML Engineer** (promoted from Intern) · FES Consultants · *Sept 2025 – June 2026*
+**AI Engineer** *(promoted from Intern)* · **FES Consultants** · *Sept 2025 – June 2026*
 - Built **Mentora**, a production RAG chatbot (FastAPI, GPT-4, Pinecone, Tavily, Redis, SSE streaming) with a two-stage freshness classifier and 24-hour SQLite answer cache to cut redundant LLM calls and hallucinations
-- Architected the **FES Workflow Management Portal** — full-stack Next.js + FastAPI RBAC platform with MongoDB, JWT auth, GPT-4o-mini content generation, and WhatsApp/Twilio NLP commands publishing straight to Facebook, Instagram, and LinkedIn
+- Architected the **FES Workflow Management Portal** — a full-stack Next.js + FastAPI RBAC platform with MongoDB, JWT auth, GPT-4o-mini content generation, and WhatsApp/Twilio NLP commands publishing straight to Facebook, Instagram, and LinkedIn
 - Delivered a multi-modal **OCR consolidation agent** (Gemini + EasyOCR) parsing multiple PDFs in parallel into a unified structured schema
-- Built a semantic course-finder with a Pinecone freshness router, serving cached embeddings for high-confidence matches and falling back to LLM only when needed
+- Built a semantic course-finder with a Pinecone freshness router, serving cached embeddings for high-confidence matches and falling back to an LLM only when needed
 
-**AI Engineer Intern** · Software Productivity Strategists (SPS) · *Jul – Sept 2025*
-- Designed and deployed conversational AI with IBM Watson Assistant — intent classifiers, entity extractors, multi-turn dialog flows across production chatbots
-
-**AI/ML Engineer Intern** · FES Consultants · *Jul – Sept 2025*
-- Built core Mentora infrastructure (Pinecone indexing, ingestion/chunking pipeline, OpenAI embeddings) and delivered the OCR consolidation agent strong enough to convert this internship into a full-time offer
+**AI Engineer Intern** · **FES Consultants** · *Jul – Sept 2025*
+- Built core Mentora infrastructure (Pinecone indexing, ingestion/chunking pipeline, OpenAI embeddings) and delivered an OCR consolidation agent strong enough to convert this internship into a full-time offer
 
 </td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## ⚡ Tech Arsenal
+## ⚡ TECH_STACK.EXE
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,cpp,bash" />
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+<br/><br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+**Deep Learning & Computer Vision**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<br/><br/>
 
-![Jetson](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/Pixhawk_%2F_MAVLink-004225?style=for-the-badge&logo=ardupilot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Agentic AI & LLM Orchestration**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+
+<br/><br/>
+
+**Systems, Backend & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,mongodb,redis,docker,aws,git" />
+
+<br/><br/>
+
+**Robotics & Edge**
+<br/>
+<img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pixhawk_%2F_MAVLink-004225?style=for-the-badge&logo=ardupilot&logoColor=white"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🚀 Featured Systems
+## 🚀 FEATURED_SYSTEMS.BUILD
 
 <table>
 <tr>
@@ -100,7 +118,7 @@ whoami:
 ### 🛰️ Autonomous Counter-Drone System
 **Final Year Project · 2026–2027**
 
-Ground MEMS mic array → FFT/Mel spectrogram → MobileNetV2 CNN (>85% confidence) does TDOA bearing estimation to launch an interceptor. Vision side: YOLOv8 → DeepSORT + Kalman tracking → PID loop drives real-time yaw/pitch/throttle to Pixhawk over MAVLink on Jetson Nano.
+Ground MEMS mic array → FFT/Mel spectrogram → MobileNetV2 CNN (>85% confidence) performs TDOA bearing estimation to launch an interceptor. Vision side: YOLOv8 → DeepSORT + Kalman tracking → PID loop drives real-time yaw/pitch/throttle to Pixhawk over MAVLink on a Jetson Nano.
 
 `YOLOv8` `DeepSORT` `Kalman Filter` `TDOA` `Pixhawk` `Jetson Nano`
 
@@ -122,7 +140,7 @@ Federated system of domain-specialized agents (Academic, Scheduling, Communicati
 ### 👁️ RetinaAI — Medical CV Platform
 **2026**
 
-Diabetic retinopathy classifier on real clinical fundus images (4-class), benchmarked across 6 architectures — **F1 0.917, 91.2% accuracy, ROC-AUC 0.973** via MixUp + Soft Focal Loss on EfficientNet-V2-S. Grad-CAM explainability + FastAPI/OAuth2 inference backend + Next.js dashboard.
+Diabetic retinopathy classifier on real clinical fundus images (4-class), benchmarked across 6 architectures — **F1 0.917, 91.2% accuracy, ROC-AUC 0.973** via MixUp + Soft Focal Loss on EfficientNet-V2-S. Grad-CAM explainability, FastAPI/OAuth2 inference backend, Next.js dashboard.
 
 `EfficientNet-V2-S` `MixUp` `Grad-CAM` `FastAPI` `Next.js`
 
@@ -132,7 +150,7 @@ Diabetic retinopathy classifier on real clinical fundus images (4-class), benchm
 ### 🩺 FatigueNet — Multimodal Fatigue Classification
 **Research · 2026**
 
-Replicated the full FatigueNet pipeline (ECG/EMG/EDA/eye-blink) with per-modality encoders, Graph Attention Network + MetaNet fusion, and a Temporal Transformer — **81.25% window-level accuracy**. HRV+EMG XGBoost fusion hit 83.33% / 0.83 F1. Published as an IEEE-style paper.
+Replicated the full FatigueNet pipeline (ECG/EMG/EDA/eye-blink) with per-modality encoders, a Graph Attention Network + MetaNet fusion, and a Temporal Transformer — **81.25% window-level accuracy**. HRV+EMG XGBoost fusion hit 83.33% / 0.83 F1. Written up as an IEEE-style paper.
 
 `GAT` `MetaNet` `XGBoost` `LightGBM` `NeuroKit2`
 
@@ -162,9 +180,9 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION_GRID.ANIMATE
 
 <div align="center">
 <picture>
@@ -174,11 +192,11 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 </picture>
 </div>
 
-> ⚠️ This only renders after you add the GitHub Actions workflow — see **Setup Instructions** below.
+> ⚠️ Renders only after the GitHub Actions workflow below is added — see **Setup Instructions**.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 ANALYTICS.DASHBOARD
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerRaza-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9"/>
@@ -194,32 +212,35 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
-## 🧠 Currently
+## 🧠 RUNTIME.STATE
 
 ```python
 class Sameer:
     def __init__(self):
-        self.role = "AI/ML Engineer @ FES Consultants (promoted from Intern)"
-        self.status = "final-year student, open to full-time AI/ML roles"
+        self.focus = ["Deep Learning", "Computer Vision", "Agentic AI", "AI Automation"]
+        self.status = "final-year student, open to full-time AI Engineering roles"
         self.shipped = ["Mentora RAG chatbot", "FES Workflow Portal", "OCR consolidation agent"]
         self.building = ["Counter-drone FYP", "Janus multi-agent orchestrator"]
 
     def get_in_touch(self):
-        return "Always happy to talk RAG, multi-agent systems, or CV 🚀"
+        return "Always happy to talk deep learning, agentic systems, or CV 🚀"
+
+sameer = Sameer()
+print(sameer.get_in_touch())
 ```
 
 <div align="center">
 
-### 🌐 Let's Connect
+### 🌐 CONNECT.SOCKET
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerrazamalik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameer.raza@live.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameerRaza-2003)
+<a href="https://linkedin.com/in/sameerrazamalik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sameer.raza@live.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SameerRaza-2003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,25:302b63,50:1a1a3e,75:0f0c29,100:000000&height=140&section=footer" width="100%"/>
 
 </div>
