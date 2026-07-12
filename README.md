@@ -204,7 +204,7 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerRaza-2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img src="https://streak-stats.demolab.com/?user=SameerRaza-2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 
 <br/><br/>
 
