@@ -192,23 +192,19 @@ Benchmarked TF-IDF, Word2Vec, and BERT for resume-to-JD matching — **BERT cosi
 </picture>
 </div>
 
-> ⚠️ Renders only after the GitHub Actions workflow below is added — see **Setup Instructions**.
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dark_purple_bar.gif" width="100%">
 
 ## ANALYTICS.DASHBOARD
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerRaza-2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerRaza-2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SameerRaza-2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&ring_color=00F5FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerRaza-2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SameerRaza-2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerRaza-2003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SameerRaza-2003&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 
 </div>
 
