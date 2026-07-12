@@ -1,0 +1,93 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sameer Raza Malik — AI Engineer">
+  <defs>
+    <radialGradient id="bgGrad" cx="18%" cy="45%" r="85%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </radialGradient>
+    <linearGradient id="sweepGrad" x1="150" y1="42" x2="204" y2="56.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f2b134" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#f2b134" stop-opacity="0.85"/>
+    </linearGradient>
+    <pattern id="dotGrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#f2b134" fill-opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <!-- panel -->
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#dotGrid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="15.5" fill="none" stroke="#f2b134" stroke-opacity="0.25"/>
+
+  <!-- radar -->
+  <g transform="translate(150,150)">
+    <circle r="108" fill="none" stroke="#f2b134" stroke-opacity="0.25"/>
+    <circle r="72" fill="none" stroke="#f2b134" stroke-opacity="0.2"/>
+    <circle r="36" fill="none" stroke="#f2b134" stroke-opacity="0.18"/>
+    <line x1="-108" y1="0" x2="108" y2="0" stroke="#f2b134" stroke-opacity="0.15"/>
+    <line x1="0" y1="-108" x2="0" y2="108" stroke="#f2b134" stroke-opacity="0.15"/>
+
+    <g>
+      <path d="M0,0 L0,-108 A108,108 0 0,1 54,-93.53 Z" fill="url(#sweepGrad)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <circle r="3" fill="#f2b134"/>
+
+    <!-- blip 1 -->
+    <circle cx="48" cy="-62" r="3.5" fill="#f2b134">
+      <animate attributeName="opacity" values="0;1;0.2;0.2" keyTimes="0;0.06;0.3;1" dur="4s" begin="0.42s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="48" cy="-62" r="3" fill="none" stroke="#f2b134">
+      <animate attributeName="r" values="3;22" dur="1.1s" begin="0.42s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.8;0" dur="1.1s" begin="0.42s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- blip 2 -->
+    <circle cx="-70" cy="40" r="3.5" fill="#f2b134">
+      <animate attributeName="opacity" values="0;1;0.2;0.2" keyTimes="0;0.06;0.3;1" dur="4s" begin="2.67s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-70" cy="40" r="3" fill="none" stroke="#f2b134">
+      <animate attributeName="r" values="3;22" dur="1.1s" begin="2.67s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.8;0" dur="1.1s" begin="2.67s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- blip 3 -->
+    <circle cx="60" cy="68" r="3.5" fill="#f2b134">
+      <animate attributeName="opacity" values="0;1;0.2;0.2" keyTimes="0;0.06;0.3;1" dur="4s" begin="1.54s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="68" r="3" fill="none" stroke="#f2b134">
+      <animate attributeName="r" values="3;22" dur="1.1s" begin="1.54s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.8;0" dur="1.1s" begin="1.54s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- blip 4 -->
+    <circle cx="-45" cy="-85" r="3.5" fill="#f2b134">
+      <animate attributeName="opacity" values="0;1;0.2;0.2" keyTimes="0;0.06;0.3;1" dur="4s" begin="3.69s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-45" cy="-85" r="3" fill="none" stroke="#f2b134">
+      <animate attributeName="r" values="3;22" dur="1.1s" begin="3.69s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.8;0" dur="1.1s" begin="3.69s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- identity block -->
+  <text x="342" y="98" font-family="ui-monospace, 'SFMono-Regular', 'Courier New', monospace" font-size="16" letter-spacing="4" fill="#f2b134" opacity="0">AI ENGINEER
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/>
+  </text>
+
+  <text x="340" y="150" font-family="ui-monospace, 'SFMono-Regular', 'Courier New', monospace" font-size="44" font-weight="700" fill="#eceff2" opacity="0">SAMEER RAZA MALIK
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.35s" fill="freeze"/>
+  </text>
+
+  <text x="342" y="184" font-family="ui-monospace, 'SFMono-Regular', 'Courier New', monospace" font-size="18" fill="#8b98a5" opacity="0">Deep Learning · Computer Vision · Agentic AI · Automation
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.9s" fill="freeze"/>
+  </text>
+
+  <!-- signal trace -->
+  <path d="M342,232 L372,214 L402,246 L432,212 L462,238 L492,206 L522,242 L552,218 L582,232 L612,202 L642,246 L672,214 L702,236 L732,208 L762,240 L792,220 L822,200 L852,236 L882,214 L912,244 L942,224 L972,204 L1002,240 L1032,214 L1062,230 L1092,210 L1122,234 L1150,220"
+        fill="none" stroke="#f2b134" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+        stroke-dasharray="6 5" opacity="0">
+    <animate attributeName="stroke-dashoffset" from="0" to="-33" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.2s" fill="freeze"/>
+  </path>
+</svg>
